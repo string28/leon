@@ -17,10 +17,10 @@ cd /sdcard
 
 ---
 
-### 2️⃣ Clone o repositório oficial da Nazuna
+### 2️⃣ Clone o repositório oficial do Leon
 
 ```bash
-git clone https://github.com/DevTokyoVx/nazuna
+git clone https://github.com/string28/leon
 ```
 
 ---
@@ -28,7 +28,7 @@ git clone https://github.com/DevTokyoVx/nazuna
 ### 3️⃣ Entre na pasta do projeto
 
 ```bash
-cd /sdcard/nazuna
+cd /sdcard/leon
 ```
 
 ---
@@ -52,7 +52,7 @@ npm start
 
 <br>
 <p align="center">
-  <sub>✅ Pronto! A Nazuna Bot foi instalada com sucesso.</sub>
+  <sub>✅ Pronto! O Leon foi instalada com sucesso.</sub>
 </p>
 
 </details>
